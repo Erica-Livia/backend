@@ -73,4 +73,12 @@ Seeders — Seeding a database is a process in which an initial set of data is p
 
 ### Third, Let's start coding and practicing- the only ways you can master programming.
 
-Example Project: todo app api
+### Example Project: todo app api
+
+The todo app api will have, user authentication, user email verification, forgot password help, reset password help, resend token password, tasks crud operations: creating a task, viewing all the tasks, updating a task and deleting a task.
+
+I will use, typeorm for database operations, nodemailer and gmail for sending emails.. zod for schemas and input validation. I will also add pagination and an api documentation using swagger
+
+Bonus, I will make a simple frontend and try to connect it to that backend!
+
+
